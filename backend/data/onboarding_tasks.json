@@ -1,0 +1,364 @@
+{
+  "users": [
+    {
+      "username": "rakshitha",
+      "phases": {
+        "Foundation Setup": {
+          "completed": true,
+          "tasks": {
+            "Install Development Tools": {
+              "completed": true,
+              "description": "Set up your IDE, Git, and essential development tools",
+              "resources": [
+                "IDE Setup Guide",
+                "Git Configuration"
+              ],
+              "duration": "2 hours",
+              "priority": "high"
+            },
+            "Access Repository": {
+              "completed": true,
+              "description": "Clone the project repository and set up your local environment",
+              "resources": [
+                "Repository Access",
+                "SSH Key Setup"
+              ],
+              "duration": "1 hour",
+              "priority": "high"
+            },
+            "Join Team Channels": {
+              "completed": true,
+              "description": "Connect with your team through communication platforms",
+              "resources": [
+                "Slack Invite",
+                "Team Calendar"
+              ],
+              "duration": "30 minutes",
+              "priority": "medium"
+            }
+          }
+        },
+        "Architecture Deep Dive": {
+          "completed": true,
+          "tasks": {
+            "Review System Architecture": {
+              "completed": true,
+              "description": "Study the overall system design and component relationships",
+              "resources": [
+                "Architecture Docs",
+                "System Diagrams"
+              ],
+              "duration": "4 hours",
+              "priority": "high"
+            },
+            "Understand Data Flow": {
+              "completed": false,
+              "description": "Learn how data moves through the system",
+              "resources": [
+                "Data Flow Diagrams",
+                "API Documentation"
+              ],
+              "duration": "3 hours",
+              "priority": "high"
+            },
+            "Review Coding Standards": {
+              "completed": false,
+              "description": "Familiarize yourself with team coding conventions",
+              "resources": [
+                "Style Guide",
+                "Best Practices"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "Codebase Exploration": {
+          "completed": false,
+          "tasks": {
+            "Explore Project Structure": {
+              "completed": false,
+              "description": "Understand the folder organization and file naming conventions",
+              "resources": [
+                "Project Map",
+                "README Files"
+              ],
+              "duration": "3 hours",
+              "priority": "high"
+            },
+            "Review Key Components": {
+              "completed": false,
+              "description": "Study the main application components and their functions",
+              "resources": [
+                "Component Docs",
+                "Code Comments"
+              ],
+              "duration": "6 hours",
+              "priority": "high"
+            },
+            "Run Test Suite": {
+              "completed": false,
+              "description": "Execute tests and understand the testing approach",
+              "resources": [
+                "Test Guide",
+                "Coverage Reports"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "Workflow & Processes": {
+          "completed": false,
+          "tasks": {
+            "Git Workflow": {
+              "completed": false,
+              "description": "Master the team's Git branching strategy and commit conventions",
+              "resources": [
+                "Git Guide",
+                "Branch Strategy"
+              ],
+              "duration": "2 hours",
+              "priority": "high"
+            },
+            "Code Review Process": {
+              "completed": false,
+              "description": "Understand how code reviews work and your role in them",
+              "resources": [
+                "Review Guidelines",
+                "PR Templates"
+              ],
+              "duration": "1 hour",
+              "priority": "high"
+            },
+            "Deployment Process": {
+              "completed": false,
+              "description": "Learn how code gets deployed to different environments",
+              "resources": [
+                "Deployment Guide",
+                "Environment Docs"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "First Contribution": {
+          "completed": false,
+          "tasks": {
+            "Pick Your First Task": {
+              "completed": false,
+              "description": "Select a beginner-friendly issue or feature to work on",
+              "resources": [
+                "Issue Tracker",
+                "Task Board"
+              ],
+              "duration": "1 day",
+              "priority": "high"
+            },
+            "Implement Your Changes": {
+              "completed": false,
+              "description": "Write code following team standards and best practices",
+              "resources": [
+                "Development Guide",
+                "Code Examples"
+              ],
+              "duration": "3-5 days",
+              "priority": "high"
+            },
+            "Submit Your PR": {
+              "completed": false,
+              "description": "Create a pull request and go through the review process",
+              "resources": [
+                "PR Guidelines",
+                "Review Checklist"
+              ],
+              "duration": "1 day",
+              "priority": "high"
+            }
+          }
+        }
+      }
+    },
+    {
+      "username": "roopika",
+      "phases": {
+        "Foundation Setup": {
+          "completed": true,
+          "tasks": {
+            "Install Development Tools": {
+              "completed": true,
+              "description": "Set up your IDE, Git, and essential development tools",
+              "resources": [
+                "IDE Setup Guide",
+                "Git Configuration"
+              ],
+              "duration": "2 hours",
+              "priority": "high"
+            },
+            "Access Repository": {
+              "completed": true,
+              "description": "Clone the project repository and set up your local environment",
+              "resources": [
+                "Repository Access",
+                "SSH Key Setup"
+              ],
+              "duration": "1 hour",
+              "priority": "high"
+            },
+            "Join Team Channels": {
+              "completed": true,
+              "description": "Connect with your team through communication platforms",
+              "resources": [
+                "Slack Invite",
+                "Team Calendar"
+              ],
+              "duration": "30 minutes",
+              "priority": "medium"
+            }
+          }
+        },
+        "Architecture Deep Dive": {
+          "completed": true,
+          "tasks": {
+            "Review System Architecture": {
+              "completed": true,
+              "description": "Study the overall system design and component relationships",
+              "resources": [
+                "Architecture Docs",
+                "System Diagrams"
+              ],
+              "duration": "4 hours",
+              "priority": "high"
+            },
+            "Understand Data Flow": {
+              "completed": true,
+              "description": "Learn how data moves through the system",
+              "resources": [
+                "Data Flow Diagrams",
+                "API Documentation"
+              ],
+              "duration": "3 hours",
+              "priority": "high"
+            },
+            "Review Coding Standards": {
+              "completed": false,
+              "description": "Familiarize yourself with team coding conventions",
+              "resources": [
+                "Style Guide",
+                "Best Practices"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "Codebase Exploration": {
+          "completed": false,
+          "tasks": {
+            "Explore Project Structure": {
+              "completed": false,
+              "description": "Understand the folder organization and file naming conventions",
+              "resources": [
+                "Project Map",
+                "README Files"
+              ],
+              "duration": "3 hours",
+              "priority": "high"
+            },
+            "Review Key Components": {
+              "completed": false,
+              "description": "Study the main application components and their functions",
+              "resources": [
+                "Component Docs",
+                "Code Comments"
+              ],
+              "duration": "6 hours",
+              "priority": "high"
+            },
+            "Run Test Suite": {
+              "completed": false,
+              "description": "Execute tests and understand the testing approach",
+              "resources": [
+                "Test Guide",
+                "Coverage Reports"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "Workflow & Processes": {
+          "completed": false,
+          "tasks": {
+            "Git Workflow": {
+              "completed": false,
+              "description": "Master the team's Git branching strategy and commit conventions",
+              "resources": [
+                "Git Guide",
+                "Branch Strategy"
+              ],
+              "duration": "2 hours",
+              "priority": "high"
+            },
+            "Code Review Process": {
+              "completed": false,
+              "description": "Understand how code reviews work and your role in them",
+              "resources": [
+                "Review Guidelines",
+                "PR Templates"
+              ],
+              "duration": "1 hour",
+              "priority": "high"
+            },
+            "Deployment Process": {
+              "completed": false,
+              "description": "Learn how code gets deployed to different environments",
+              "resources": [
+                "Deployment Guide",
+                "Environment Docs"
+              ],
+              "duration": "2 hours",
+              "priority": "medium"
+            }
+          }
+        },
+        "First Contribution": {
+          "completed": false,
+          "tasks": {
+            "Pick Your First Task": {
+              "completed": false,
+              "description": "Select a beginner-friendly issue or feature to work on",
+              "resources": [
+                "Issue Tracker",
+                "Task Board"
+              ],
+              "duration": "1 day",
+              "priority": "high"
+            },
+            "Implement Your Changes": {
+              "completed": false,
+              "description": "Write code following team standards and best practices",
+              "resources": [
+                "Development Guide",
+                "Code Examples"
+              ],
+              "duration": "3-5 days",
+              "priority": "high"
+            },
+            "Submit Your PR": {
+              "completed": false,
+              "description": "Create a pull request and go through the review process",
+              "resources": [
+                "PR Guidelines",
+                "Review Checklist"
+              ],
+              "duration": "1 day",
+              "priority": "high"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "username": "rakshitha",
+    "phases": {
+      "Foundation Setup": true,
+      "Architecture Deep Dive": true,
+      "Codebase Exploration": false,
+      "Workflow & Processes": false,
+      "First Contribution": false
+    }
+  },
+  {
+    "username": "roopika",
+    "phases": {
+      "Foundation Setup": true,
+      "Architecture Deep Dive": true,
+      "Codebase Exploration": true,
+      "Workflow & Processes": false,
+      "First Contribution": false
+    }
+  }
+] 
